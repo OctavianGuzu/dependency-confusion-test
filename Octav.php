@@ -1,6 +1,6 @@
 <?php
 
-class Octav2
+class Octav4
 {
-	const test_val = 3;
+	const test_val = 4;
 }
