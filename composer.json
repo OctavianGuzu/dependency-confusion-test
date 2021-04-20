@@ -1,5 +1,6 @@
 {
     "name": "octavianguzu/dependency-confusion-test",
     "type": "library",
-    "require": {}
+    "require": {},
+    "version": "99.99.99"
 }
